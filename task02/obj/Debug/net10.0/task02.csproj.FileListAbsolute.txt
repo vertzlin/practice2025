@@ -1,0 +1,12 @@
+/Users/arsenijkukoba/Desktop/practice2025/task02/bin/Debug/net10.0/task02.deps.json
+/Users/arsenijkukoba/Desktop/practice2025/task02/bin/Debug/net10.0/task02.dll
+/Users/arsenijkukoba/Desktop/practice2025/task02/bin/Debug/net10.0/task02.pdb
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.AssemblyInfoInputs.cache
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.AssemblyInfo.cs
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.csproj.CoreCompileInputs.cache
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.sourcelink.json
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.dll
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/refint/task02.dll
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/task02.pdb
+/Users/arsenijkukoba/Desktop/practice2025/task02/obj/Debug/net10.0/ref/task02.dll

@@ -97,3 +97,4 @@
 /Users/arsenijkukoba/Desktop/practice2025/task01tests/obj/Debug/net10.0/task01tests.pdb
 /Users/arsenijkukoba/Desktop/practice2025/task01tests/obj/Debug/net10.0/task01tests.genruntimeconfig.cache
 /Users/arsenijkukoba/Desktop/practice2025/task01tests/obj/Debug/net10.0/ref/task01tests.dll
+/Users/arsenijkukoba/Desktop/practice2025/task01tests/obj/Debug/net10.0/task01tests.sourcelink.json

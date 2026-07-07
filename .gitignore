@@ -1,0 +1,54 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs
+*.pidb
+*.log
+*.tmp
+*.tmp_proj
+*.sln.ide
+*.sln.docstates
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.loadtest
+*.testsettings
+*.vsmdi
+*.vmd
+*.slnx
+
+# Visual Studio
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.nupkg.metadata
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OSX
+.DS_Store
+*.orig
